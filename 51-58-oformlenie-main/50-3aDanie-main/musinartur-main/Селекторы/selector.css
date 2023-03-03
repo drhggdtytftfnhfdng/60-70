@@ -1,0 +1,433 @@
+/* h1,h2,h3{
+    text-align: center;
+} */
+
+
+
+/* h1,h2,h3{
+    text-align: center
+}h3{
+    font-size: 16px;
+    color: red;
+
+}h2{
+    color: blue;
+} */
+
+
+
+/* h1,h2,h3{
+    text-align: center;
+    color: red;
+}h3{
+    font-size: 16px;
+} */
+
+/* 25 */
+
+/* ul i {
+	color: red;
+}p i{
+    color: green;
+} */
+
+
+/* b,i{
+    color: red;
+} */
+
+
+
+/* 26
+
+b>i{
+    color: red;
+} */
+
+/* 27
+.odd{
+    color: red;
+}.eve{
+    color: green;
+}
+
+.eee{
+    color: red;
+} */
+
+
+/* 28
+.xxx{
+    font-size: 30px;
+} */
+
+
+
+/* 29
+.aaa1{
+    color: red;
+}.aaa2{
+    color: green;
+}.aaa3{
+    color: blue;
+}
+
+
+.red{
+    color: red;
+}.green{
+    color: green;
+} */
+
+
+
+
+/* 30
+.eee,.zzz{
+    line-height: 1.5;
+	font-family: Arial;
+}.eee{
+    font-size: 20px;
+}.zzz{
+    font-size: 30px;
+}
+
+
+   .eee,.zzz,.ggg{
+    text-align: center;
+	font-family: Arial;
+   } .eee{
+    font-size: 20px;
+   }.zzz{
+    font-size: 30px;
+   }.ggg{
+    font-size:  35px;
+   } */
+
+/* 31
+h2.header{
+    font-size: 40px;
+}h3.header{
+    font-size: 30px;
+}
+
+
+.eee i{
+    color: red;
+} */
+
+
+/* 34
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+
+.eee,.rrr,.ttt{
+    color: blue;
+} */
+
+
+/* 35
+#elem1{
+    color: red;
+}#elem2{
+    color: green;
+}#elem3{
+    color: blue;
+} */
+
+
+
+
+/* 37
+.zzz.eee.ccc{
+    color: red;
+} */
+
+/* 38!!!!!!!!!!!!!!!!!!
+
+39!!!!!!!!!!!!!!!!!!!!!
+
+#block h1, #block h2{
+    text-align: center;
+}
+
+
+#block h1, #block h2{
+    text-align: center;
+    font-size: 30px;
+}h2{
+    font-size: 20px;
+}
+
+
+
+#block h1, #block h2, #block h3{
+    text-align: center;
+}h2{
+    color: blue;
+}h3{
+    font-size: 16px;
+    color: red;
+}
+
+
+#block h1.bbb , #block h2.zzz{
+    text-align: center;
+    font-size: 30px;
+}h2.zzz{
+    font-size: 20px;
+}
+
+
+#eee h2, .eee h2.zzz, .xxx .kkk{
+    text-align: center;
+}
+
+
+.eee h2.zzz, .xxxP{
+    text-align: center;
+} */
+
+
+
+
+
+
+/* 40==== */
+
+/* div p{
+    color: blue;
+} */
+
+
+/* div h2{
+    color: brown;
+} */
+
+/* #block p{
+    color: blueviolet;
+} */
+
+
+/* #block h2{
+    color: blueviolet;
+}  */
+
+
+/* .bbb {
+    color: aqua;
+} */
+
+
+/* #block .bbb{
+    color: blue;
+} */
+
+
+/* #block .bbb{
+    color: aquamarine;
+} */
+
+
+/* .bbb{
+    color: blue;
+} */
+
+
+
+/* #block .bbb  {
+    color: blue;
+} */
+
+/* 42=============== */
+/* #elem + li{
+    color: blue;
+} */
+
+
+/* .elem + li{
+    color: blue;
+} */
+
+/* 43================= */
+
+/* #elem ~ li{
+color: blue;
+} */
+
+/* 44========== */
+
+/* main * p{
+            color: aqua;
+}
+
+/* 45
+-------------------------1
+[title]{
+    color: brown;
+} */
+
+/* -------------------------2 */
+/* p{
+    color: brown;
+} */
+
+/* -------------------------3 */
+
+/* [title] {
+    color: brown;
+} */
+
+/* ------------------4 */
+
+/* li{
+    list-style-type: none;
+    
+}
+[href]{
+    color: blue;
+
+} */
+
+/* -----------------------5 */
+
+
+/* 46 */
+
+/* a:hover{
+    color: red;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color: green;
+}
+a:active{
+    color: black;
+} */
+
+
+/* a{
+    color: blue;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+    text-decoration: underline;
+} */
+
+
+
+/* 48
+----------------1
+li:first-child{
+
+    color: red;
+}
+
+------------------2
+li:last-child{
+    color: green;
+}
+---------------3
+li:first-child {
+
+    color: red;
+}
+
+
+li:last-child {
+    color: green;
+}
+
+----------------4
+
+li:nth-child(3){
+    color: red;
+}
+
+--------------------5
+
+li:nth-child(odd){
+    color: red;
+}
+li:nth-child(even){
+    color: green;
+}
+------------------6
+li:nth-child(3){
+    color: red;
+}
+li:nth-child(6) {
+    color: red;
+}
+li:nth-child(9) {
+    color: red;
+}
+-----------------7
+
+li:nth-last-child(2){
+    color: red;
+}
+
+---------------8
+
+li:only-child{
+    color: red;
+}
+----------------9
+li:empty{
+        border: 1px solid rgb(3, 3, 255);
+            list-style-type: circle;
+            color: black;
+            width: 100px;
+            
+}
+li{
+            border: 1px solid red;
+                list-style-type: circle;
+                color: black;
+                width: 100px;
+                margin: 9px;
+} */
+
+
+
+
+
+
+
+/* 50
+---------1
+li:not(.elem){
+    color: skyblue;
+}
+
+-----------2
+li:not(:first-child){
+    color: skyblue;
+}
+-------------3 */
+
+/* &!&!&!&&!& */
+
+
+
+
+
+
